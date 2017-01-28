@@ -1,0 +1,19 @@
+{
+  "name": "node_scheduling",
+  "version": "0.0.1",
+  "description": "Node Task Scheduling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "task",
+    "scheduling"
+  ],
+  "author": "Ismet Said Calik",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.2.0"
+  }
+}
